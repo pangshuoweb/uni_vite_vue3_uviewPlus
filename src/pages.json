@@ -11,7 +11,7 @@
       "name": "Login",
       "path": "pages/login/index",
       "style": {
-        "navigationStyle": "custom",
+      //   "navigationStyle": "custom",
         "navigationBarTitleText": "登录"
       },
       "meta": {
@@ -59,7 +59,7 @@
     {
       "path": "pages/form/index",
       "style": {
-        "navigationBarTitleText": "表单",
+        "navigationBarTitleText": "创建工单",
         "enablePullDownRefresh": false
       }
     }
